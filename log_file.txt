@@ -1,0 +1,18 @@
+Name : xyz
+Address : 51 b, whitefield, Nagpur, 440035.
+Start time : 1344500000
+End time : 1575829467
+Limitations:
+Scalability: Scalability remains a significant challenge for blockchain technology, especially for public blockchains like Bitcoin and Ethereum. As the number of transactions increases, the network's performance may degrade, leading to slower transaction processing times and higher fees.
+
+Energy Consumption: Proof of Work (PoW) consensus mechanisms, used by some blockchain networks like Bitcoin, require substantial computational power and energy consumption for block validation. This has raised concerns about the environmental impact of blockchain technology.
+
+Regulatory Uncertainty: Blockchain technology operates in a regulatory gray area in many jurisdictions. Lack of clear regulations and compliance standards can hinder mainstream adoption and limit the growth of blockchain-based solutions, especially in heavily regulated industries.
+
+Privacy Concerns: While blockchain offers transparency and immutability, it also raises privacy concerns, especially for public blockchains where all transactions are visible to anyone. Achieving a balance between transparency and privacy remains a challenge for blockchain developers.
+
+User Experience: The user experience of interacting with blockchain-based applications can be complex and unfamiliar for non-technical users. Issues such as wallet management, private key security, and transaction confirmation times may pose usability challenges for mainstream adoption.
+
+Despite these limitations, ongoing research and development efforts are addressing many of these challenges, making blockchain technology increasingly viable for a wide range of applications across industries.
+Start time : 1434500000
+End time : 3675829467
