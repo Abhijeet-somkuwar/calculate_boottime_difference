@@ -14,5 +14,3 @@ Privacy Concerns: While blockchain offers transparency and immutability, it also
 User Experience: The user experience of interacting with blockchain-based applications can be complex and unfamiliar for non-technical users. Issues such as wallet management, private key security, and transaction confirmation times may pose usability challenges for mainstream adoption.
 
 Despite these limitations, ongoing research and development efforts are addressing many of these challenges, making blockchain technology increasingly viable for a wide range of applications across industries.
-Start time : 1434500000
-End time : 3675829467

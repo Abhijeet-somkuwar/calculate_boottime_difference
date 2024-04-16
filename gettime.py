@@ -48,7 +48,7 @@ def main():
                 return
 
     except FileNotFoundError:
-        print("Error: The provided file path is incorrect.")
+        print("Error: The provided file not found.")
         return
 
     start_times, end_times = parse_log_file(log_file)
