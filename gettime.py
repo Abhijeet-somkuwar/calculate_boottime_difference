@@ -10,11 +10,11 @@ def parse_log_file(log_file):
 
     with open(log_file, 'r') as file:
         for line in file:
-            if 'Start time' in line:
+            if 'Start time' in line:                   #can change 'Start time' with the required Str to get there corresponding one or more digits (pattern)
                 match = re.findall(pattern, line)
                 if match:
                     start_times.append(int(match[0]))
-            elif 'End time' in line:
+            elif 'End time' in line:                   #can change 'End time' with the required Str to get there corresponding one or more digits (pattern)
                 match = re.findall(pattern, line)
                 if match:
                     end_times.append(int(match[0]))
